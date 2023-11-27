@@ -22,7 +22,7 @@ a {
 
 /* Custom design */
 .banner {
-  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-image: url("https://media.cnn.com/api/v1/images/stellar/prod/231127104332-alejandro-garnacho-112623.jpg?c=16x9&q=h_270,w_480,c_fill/f_webp");
   background-size: cover;
   color: white;
   padding: 120px 0;
@@ -48,7 +48,7 @@ a {
   font-style: italic;
 }
 .link-medium:hover {
-  background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));}
+  background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));
 }
 
 /* Media queries */
